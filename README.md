@@ -1,0 +1,1 @@
+This C program stores text read from a text file as a linked list of strings (which in themselves are linked lists). It then reads another file to obtain a list of words to redact. The output of the program is the inputted text with asterisks replacing the redacted words.
